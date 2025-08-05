@@ -59,4 +59,6 @@ Open http://localhost:5173 to use the chat.
 
 <br>
 
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+
 Made with ❤️ by @utopiaLF
